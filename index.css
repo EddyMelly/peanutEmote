@@ -1,0 +1,50 @@
+body {
+  color: #000000;
+  text-align: center;
+  background-color: #1f1f23;
+  margin: 0;
+}
+div#container {
+  width: 500px;
+  height: 500px;
+  position: relative;
+  text-align: left;
+  background-color: #3cff00;
+}
+#emoteImg {
+  height: 448px;
+  width: 448px;
+  padding: 25px;
+}
+
+#PageHeader1 {
+  background-color: #571182;
+  background-image: none;
+  text-align: left;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 92px;
+  z-index: 7777;
+}
+
+#wb_title {
+  text-align: center;
+  left: 360px;
+  top: 17px;
+  width: 486px;
+  height: 59px;
+  text-align: center;
+  z-index: 1;
+}
+#wb_title div {
+  text-align: center;
+}
+#status {
+  color: #4682b4;
+  font-family: Arial;
+  font-weight: normal;
+  font-size: 32px;
+  padding: 4px 4px 4px 4px;
+  text-align: center;
+}

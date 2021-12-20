@@ -8,4 +8,5 @@ export const EMOTES = {
   nopeanYayawoo: document.getElementById('nopeanYayawoo'),
   nopeanZoomereyes: document.getElementById('nopeanZoomereyes'),
   nopeanPeanut: document.getElementById('nopeanPeanut'),
+  nopeanLove: document.getElementById('nopeanLove'),
 };

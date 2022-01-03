@@ -9,4 +9,5 @@ export const EMOTES = {
   nopeanZoomereyes: document.getElementById('nopeanZoomereyes'),
   nopeanPeanut: document.getElementById('nopeanPeanut'),
   nopeanLove: document.getElementById('nopeanLove'),
+  nopeanBigbrain: document.getElementById('nopeanBigbrain'),
 };

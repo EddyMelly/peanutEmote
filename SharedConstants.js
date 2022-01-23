@@ -10,4 +10,5 @@ export const EMOTES = {
   nopeanPeanut: document.getElementById('nopeanPeanut'),
   nopeanLove: document.getElementById('nopeanLove'),
   nopeanBigbrain: document.getElementById('nopeanBigbrain'),
+  nopeanSargeSmile: document.getElementById('nopeanSargeSmile'),
 };
